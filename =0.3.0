@@ -1,0 +1,16 @@
+Collecting pyopenjtalk
+  Downloading pyopenjtalk-0.3.3.tar.gz (1.6 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.6/1.6 MB 67.4 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Installing backend dependencies: started
+  Installing backend dependencies: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Requirement already satisfied: numpy>=1.20.0 in /opt/conda/envs/py_3.10/lib/python3.10/site-packages (from pyopenjtalk) (1.26.4)
+Requirement already satisfied: six in /opt/conda/envs/py_3.10/lib/python3.10/site-packages (from pyopenjtalk) (1.16.0)
+Requirement already satisfied: tqdm in /opt/conda/envs/py_3.10/lib/python3.10/site-packages (from pyopenjtalk) (4.66.2)
+Building wheels for collected packages: pyopenjtalk
+  Building wheel for pyopenjtalk (pyproject.toml): started
